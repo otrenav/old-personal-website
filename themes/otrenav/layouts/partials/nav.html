@@ -1,0 +1,20 @@
+
+<nav class="main-nav">
+	{{ $url := replace .Permalink .Site.BaseURL "" }}
+	{{ if not .IsHome }}
+	    <a href='/'>Home</a>
+	{{ end }}
+    <!--
+	<a href='/posts'>Archive</a>
+	<a href='/tags'>Tags</a>
+    -->
+	{{ range $key, $val := .Site.Params.Links }}
+	    <a href="{{ $val }}">{{ $key }}</a>
+	{{ end }}
+	{{ if .Site.Params.enableRSS }}
+	    <a href="{{ .Site.RSSLink }}">RSS</a>
+	{{ end }}
+    <!--
+	<a class="cta" href="{{ .Site.RSSLink }}">Subscribe</a>
+    -->
+</nav>

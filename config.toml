@@ -1,0 +1,52 @@
+
+baseurl = "/"
+title = "Omar Trejo Navarro"
+
+googleAnalytics = "UA-98004849-1"
+languageCode = "en-us"
+theme = "otrenav"
+
+[params]
+
+author = "Omar Trejo Navarro"
+phrase = "The best ideas are common property."
+
+description = """Hello! I'm a Data and Software Engineer who enjoys freelancing.
+I wrote [R Programming by
+Example](http://links.otrenav.com/r-programming-by-example), co-founded
+[Datata](https://datata.mx), and was National Data Science Co-Champion in
+Mexico. I'm currently developing [CVEST](https://cvest.tech), and I'm interested
+in Web Applications, Serverless Architectures, Distributed Machine Learning, and
+Blockchains. Let's talk!"""
+
+enableTwitterCard = true
+twitterCardImage = ""
+twitter = "otrenav"
+
+enableRSS = true
+enableToc = true
+
+enableDisqus = true
+disqusShortname = "otrenav"
+
+postTags = false
+enableSummary = true
+showLatestPosts = false
+useDescriptionReplaceSummary = false
+
+# TODO: Test if this can be removed
+enableGoogleAnalytics = true
+
+customJS  = ["js/ensure-https.js", "js/contact-form.js"]
+customCSS = ["css/contact-form.css"]
+
+[social]
+
+twitter-square = "http://links.otrenav.com/twitter/"
+github-square = "http://links.otrenav.com/github/"
+linkedin-square = "http://links.otrenav.com/linkedin/"
+# youtube-square = "http://links.otrenav.com/youtube/"
+
+[taxonomies]
+
+tag = "tags"

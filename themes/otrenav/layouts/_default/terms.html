@@ -1,0 +1,27 @@
+<html>
+    {{ partial "head.html" . }}
+    <body>
+        <section id="wrapper">
+            {{ partial "nav.html" . }}
+            {{ partial "profile.html" . }}
+            <hr>
+            <h1>Tags</h1>
+            <div class="page-tags">
+                <ul>
+                    {{ $data := .Data }}
+                    {{ range $key, $value := .Data.Terms.ByCount }}
+                        {{ if ($value.Name) }}
+                            <li>
+                                <a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">
+                                    {{ $value.Name | upper }} <span>({{ $value.Count }})</span>
+                                </a>
+                            </li>
+                        {{ end }}
+                    {{ end }}
+                </ul>
+            </div>
+            {{ partial "footer.html" . }}
+        </section>
+        {{ partial "js.html" . }}
+    </body>
+</html>

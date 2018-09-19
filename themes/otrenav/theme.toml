@@ -1,0 +1,17 @@
+name = "OTRENAV"
+license = "MIT"
+licenselink = ""
+description = ""
+homepage = ""
+tags = ["blog", "beautiful", "disqus", "rss", "syntax highlighting", "tags"]
+features = ["blog", "beautiful", "disqus", "rss", "syntax highlighting", "tags"]
+min_version = 0.20
+
+[author]
+name = "Omar Trejo"
+homepage = "https://otrenav.com"
+
+[[original]]
+name = "Cactus"
+homepage = "https://themes.gohugo.io/cactus/"
+repo = "https://github.com/digitalcraftsman/hugo-cactus-theme"

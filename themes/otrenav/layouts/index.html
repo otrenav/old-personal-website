@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    {{ partial "head.html" . }}
+    <body>
+        <div id="wrapper">
+            {{ partial "nav.html" . }}
+            {{ partial "profile.html" . }}
+            <hr>
+	        {{ if .IsHome }}
+                {{ with .Site.Params.description }}<p id="self-description">{{ . | markdownify }}</p>{{ end }}
+                {{ partial "contact-form.html" . }}
+	        {{ end }}
+            {{ partial "publications.html" . }}
+            <hr>
+            {{ partial "post-list.html"  . }}
+            {{ partial "pagination.html" . }}
+            {{ partial "footer.html"     . }}
+        </div>
+        {{ partial "js.html" . }}
+    </body>
+</html>

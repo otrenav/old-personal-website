@@ -1,0 +1,77 @@
+
+.contact-form {
+    margin-top: 2.3em;
+	background: #FFFFFF;
+	border-radius: 2px;
+    max-width: 100%;
+}
+
+.contact-form ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.contact-form li {
+	border: 1px solid #AAAAAA;
+	margin-bottom: 1.5em;
+	border-radius: 3px;
+	padding: 0.6em;
+	display: block;
+}
+
+.contact-form li:last-child {
+	text-align: center;
+	border: none;
+}
+
+.contact-form li > label {
+    padding-right: 0.5em;
+	padding-left: 0.5em;
+	background: #FFFFFF;
+    margin-top: -19px;
+	font-size: 1em;
+	color: #AAAAAA;
+	float: left;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="date"],
+.contact-form input[type="datetime"],
+.contact-form input[type="email"],
+.contact-form input[type="number"],
+.contact-form input[type="search"],
+.contact-form input[type="time"],
+.contact-form input[type="url"],
+.contact-form input[type="password"],
+.contact-form textarea,
+.contact-form select {
+    font-family: 'Brawler', serif;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	line-height: 2em;
+	font-size: 1em;
+	outline: none;
+	border: none;
+	width: 100%;
+}
+
+.contact-form textarea {
+	resize: none;
+}
+
+.contact-form input[type="submit"],
+.contact-form input[type="button"] {
+	padding: 0.7em 1em 0.7em 1em;
+	background: #448AFF;
+	border-radius: 3px;
+	color: #FFFFFF;
+	border: none;
+}
+
+.contact-form input[type="submit"]:hover,
+.contact-form input[type="button"]:hover {
+	background: #2962FF;
+	color: #FFFFFF;
+}
