@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 7 essential technologies for a modern data architecture
 Go Back
 Archive
@@ -45,7 +49,7 @@ Microservices are all about delivering agility. A service that is micro in natur
 Because microservices encapsulate a small unit of work and because they are decoupled from one another, there are few hurdles to replacing or upgrading the service over time. Under the old model, reliance on tight coupling like RPC meant having to shut down all the connections and then later reestablish them. Load balancing was another huge issue for those implementations as manual configuration made them error prone.
 
 7. Function as a service
-As we have seen microservices taking hold in the industry so have we seen the rise of serverless compute or what is perhaps more accurately referred to as function as a service (FaaS). FaaS enables the creation of microservices in such a way that the code can be wrapped in a lightweight framework (i.e. a shim or sidecar), built into a container, executed on demand (based on some trigger), and then automatically load balanced, thanks to the lightweight framework. The beauty of FaaS is that it frees the developer to focus almost exclusively on the function. Thus FaaS looks to be the logical conclusion of the microservices approach.  
+As we have seen microservices taking hold in the industry so have we seen the rise of serverless compute or what is perhaps more accurately referred to as function as a service (FaaS). FaaS enables the creation of microservices in such a way that the code can be wrapped in a lightweight framework (i.e. a shim or sidecar), built into a container, executed on demand (based on some trigger), and then automatically load balanced, thanks to the lightweight framework. The beauty of FaaS is that it frees the developer to focus almost exclusively on the function. Thus FaaS looks to be the logical conclusion of the microservices approach.
 
 The triggering event is a critical component of FaaS. Without it there is no way for the functions to be invoked, and resources consumed, only when work needs to be done. The automatic invocation of the functions is what makes FaaS truly valuable. Imagine for a moment that every time someone reads a user’s profile there is an audit event—a function that must run to notify a security team. More specifically, maybe it filters out only certain types of records. It can be selective, and after all it is a business function that is completely customizable. It is important to note that putting a workflow like this in place is tremendously simple with a deployment model such as FaaS.
 

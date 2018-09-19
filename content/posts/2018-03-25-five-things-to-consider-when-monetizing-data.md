@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 5 Things to Think About When Considering Monetizing Data
 Go Back
 Archive

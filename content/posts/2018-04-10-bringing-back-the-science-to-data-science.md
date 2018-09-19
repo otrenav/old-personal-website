@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 Bringing Back the Science to Data Science; With the Help of Software Architects
 infocus.dellemc.comView OriginalApril 11th, 2018
 The increasing push to leverage the vast amount of collected data via the Internet of Things (IoT) for machine-learning-based solutions is putting new, nonscientific demands on data scientists. But as we found in a recent collaboration with software architects, there is much to be gained by incorporating different domain expertise into building great data-based solutions.

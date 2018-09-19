@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 Five things to adopt before selling online
 blog.monetha.ioView OriginalMay 20th, 2018
 

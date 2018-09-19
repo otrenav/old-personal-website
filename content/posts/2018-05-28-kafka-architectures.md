@@ -1,3 +1,6 @@
++++
+draft = true
++++
 
 https://dzone.com/articles/using-apache-kafka-for-real-time-event-processing?edition=367211&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-03-21
 

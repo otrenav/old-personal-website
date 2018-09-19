@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 These 6 Industries Are Using Blockchain to Gain a Competitive Advantage
 Go Back
 Add to List

@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 Quality attributes in Software Architecture. Part I
 Go Back
 Archive

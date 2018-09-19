@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 So, what are the benefits of algorithmic trading then?
 
 Liquidity

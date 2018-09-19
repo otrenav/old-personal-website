@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 https://www.toptal.com/finance/interim-cfos/unit-economics?utm_campaign=Toptal%20Finance%20Blog&utm_source=hs_email&utm_medium=email&utm_content=63113796&_hsenc=p2ANqtz-94wPMOwhjHxrTqDLxKd6f5Rb_UkJCpliDCp_61lVLunT2LuoGj63Q17qWrnT_v3SJr2NmaRaeRAJj93c50B7GJsQ63xg&_hsmi=63113796
 
 Don't Scale an Unprofitable Business: Why Unit Economics (Still) Matter

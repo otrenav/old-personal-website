@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 How organizations can evolve from data-driven to information-driven
 Go Back
 Archive

@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e1579511d5dc
 
 Why Trello Failed to Build a $1 Billion+ Business

@@ -1,3 +1,7 @@
++++
+draft = true
++++
+
 Bitcoin taxation: a global challenge for tax authorities
 Go Back
 Archive
