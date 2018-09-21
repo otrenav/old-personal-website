@@ -11,13 +11,12 @@ theme = "otrenav"
 author = "Omar Trejo Navarro"
 phrase = "The best ideas are common property."
 
-description = """Hello! I'm a Data and Software Engineer who enjoys freelancing.
-I wrote [R Programming by
-Example](http://links.otrenav.com/r-programming-by-example), co-founded
-[Datata](https://datata.mx), and was National Data Science Co-Champion in
-Mexico. I'm currently developing [CVEST](https://cvest.tech), and I'm interested
-in Web Applications, Serverless Architectures, Distributed Machine Learning, and
-Blockchains. Let's talk!"""
+description="""Hello! I'm a Data and Software Engineer who enjoys building
+complex and valuable data platforms for organizations all over the world. My
+background is in Machine Learning, Mathematics, and Economics, I was National
+Data Science Champion for a contest organized by Mexico's Presidential Office in
+2014, and I wrote [R Programming by
+Example](http://links.omartrejo.com/r-programming-by-example). Let’s talk!"""
 
 enableTwitterCard = true
 twitterCardImage = ""
