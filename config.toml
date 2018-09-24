@@ -4,19 +4,23 @@ title = "Omar Trejo Navarro"
 
 googleAnalytics = "UA-98004849-1"
 languageCode = "en-us"
-theme = "otrenav"
+theme = "omartrejo"
 
 [params]
 
 author = "Omar Trejo Navarro"
-phrase = "The best ideas are common property."
+phrase = """
+"There's nothing more powerful than an
+idea whose time has come." —Víctor Hugo
+"""
 
 description="""Hello! I'm a Data and Software Engineer who enjoys building
 complex and valuable data platforms for organizations all over the world. My
-background is in Machine Learning, Mathematics, and Economics, I was National
-Data Science Champion for a contest organized by Mexico's Presidential Office in
-2014, and I wrote [R Programming by
-Example](http://links.omartrejo.com/r-programming-by-example). Let’s talk!"""
+background is in Machine Learning, Mathematics, and Economics. I was National
+Data Science Champion for a contest organized by Mexico's Presidential Office
+(2014), and I wrote [R Programming by
+Example](http://links.omartrejo.com/r-programming-by-example) (2017). Let’s
+talk! """
 
 enableTwitterCard = true
 twitterCardImage = ""
@@ -25,26 +29,27 @@ twitter = "otrenav"
 enableRSS = true
 enableToc = true
 
-enableDisqus = true
-disqusShortname = "otrenav"
+enableDisqus = false
+# disqusShortname = "otrenav"
 
 postTags = false
 enableSummary = true
 showLatestPosts = false
-useDescriptionReplaceSummary = false
-
-# TODO: Test if this can be removed
 enableGoogleAnalytics = true
+useDescriptionReplaceSummary = false
 
 customJS  = ["js/ensure-https.js", "js/contact-form.js"]
 customCSS = ["css/contact-form.css"]
 
 [social]
 
-twitter-square = "http://links.otrenav.com/twitter/"
-github-square = "http://links.otrenav.com/github/"
-linkedin-square = "http://links.otrenav.com/linkedin/"
-# youtube-square = "http://links.otrenav.com/youtube/"
+twitter = "http://links.omartrejo.com/twitter/"
+gitlab = "http://links.omartrejo.com/gitlab/"
+linkedin = "http://links.omartrejo.com/linkedin/"
+youtube = "http://links.omartrejo.com/youtube/"
+
+[socialpng]
+keybase = "http://links.omartrejo.com/keybase/"
 
 [taxonomies]
 

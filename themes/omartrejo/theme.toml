@@ -3,13 +3,13 @@ license = "MIT"
 licenselink = ""
 description = ""
 homepage = ""
-tags = ["blog", "beautiful", "disqus", "rss", "syntax highlighting", "tags"]
-features = ["blog", "beautiful", "disqus", "rss", "syntax highlighting", "tags"]
+tags = ["blog", "disqus", "rss", "syntax highlighting", "tags"]
+features = ["blog", "disqus", "rss", "syntax highlighting", "tags"]
 min_version = 0.20
 
 [author]
 name = "Omar Trejo"
-homepage = "https://otrenav.com"
+homepage = "https://omartrejo.com"
 
 [[original]]
 name = "Cactus"
