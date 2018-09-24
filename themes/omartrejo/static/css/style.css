@@ -39,6 +39,10 @@ i {
   font-style: italic;
 }
 
+b {
+  font-weight: bold;
+}
+
 blockquote {
   border-left: 10px solid #EEEEEE;
   font-style: italic;
