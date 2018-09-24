@@ -7,7 +7,11 @@
       {{ partial "profile.html" . }}
       <hr>
 	  {{ if .IsHome }}
-        {{ with .Site.Params.description }}<p id="self-description">{{ . | markdownify }}</p>{{ end }}
+        {{ with .Site.Params.description }}
+          <div id="self-description">
+            {{ . | markdownify }}
+          </div>
+        {{ end }}
         {{ partial "contact-form.html" . }}
 	  {{ end }}
       {{ partial "publications.html" . }}

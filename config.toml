@@ -9,10 +9,7 @@ theme = "omartrejo"
 [params]
 
 author = "Omar Trejo Navarro"
-phrase = """
-"There's nothing more powerful than an
-idea whose time has come." —Víctor Hugo
-"""
+phrase = "Data and Software Engineer"
 
 description="""Hello! I'm a Data and Software Engineer who enjoys building
 complex and valuable data platforms for organizations all over the world. My
@@ -20,7 +17,12 @@ background is in Machine Learning, Mathematics, and Economics. I was National
 Data Science Champion for a contest organized by Mexico's Presidential Office
 (2014), and I wrote [R Programming by
 Example](http://links.omartrejo.com/r-programming-by-example) (2017). Let’s
-talk! """
+talk!
+
+<i>"There's nothing more powerful than an idea whose time has come."
+<br>
+—Víctor Hugo</i>
+"""
 
 enableTwitterCard = true
 twitterCardImage = ""

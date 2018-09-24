@@ -35,6 +35,10 @@ p {
   line-height: 1.7;
 }
 
+i {
+  font-style: italic;
+}
+
 blockquote {
   border-left: 10px solid #EEEEEE;
   font-style: italic;
@@ -171,15 +175,10 @@ nav.main-nav a.cta {
 }
 
 .profile #quote {
-  margin-bottom: 0.8em;
-  font-style: italic;
+  margin-bottom: 1.5em;
   margin-top: 0.5em;
-  font-size: 1.4em;
+  font-size: 1.3em;
   color: #999999;
-  padding-right: 1.5em;
-  padding-left: 1.5em;
-  padding-bottom: 1em;
-  padding-top: 1em;
 }
 
 .icon {
@@ -195,6 +194,11 @@ nav.main-nav a.cta {
 
 .icon-png {
   max-width: 1em;
+}
+
+.icon-png:hover {
+  /* TODO: Accurate blue color config */
+  filter: sepia(100) contrast(2) brightness(0.8) hue-rotate(150deg);
 }
 
 /*
@@ -460,7 +464,6 @@ pre code {
   width: auto;
 }
 
-
 /*
  * Others
  */
@@ -479,9 +482,9 @@ pre code {
   #wrapper {
     max-width: 300px;
   }
-  .profile #quote {
-    font-size: 1em;
-  }
+  /* .profile #quote { */
+  /*   font-size: 1em; */
+  /* } */
   .icon {
     font-size: 2em;
   }
