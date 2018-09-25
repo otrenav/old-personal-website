@@ -1,3 +1,6 @@
++++
+draft = true
++++
 
 "[...] there is a special breed of warrior ready to answer our nation's call. A
 common man with an uncommon desire to succeed. Forged by adversity, he stands
