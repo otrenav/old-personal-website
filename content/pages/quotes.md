@@ -386,3 +386,17 @@ hablar directamente con los usuarios/clientes. No deben haber barreras." —Seib
 "You're extraordinary. There will be mediocre people who will resent you for
 they stand in your shadow. Don't make yourself smaller to accommodate them.
 Embrace your gift." —Anonymous
+
+"We are not here to do what has already been done." —(?)
+
+"It does not matter to have thought great things before the work" —(?)
+
+"We're painting for ourselves, not for the jury." —(?)
+
+"Instead of asking 'Do you like this idea?', ask 'What's wrong with this idea?'"
+—Reid Hoffman
+
+"People need permission to give you negative feedback. Encourage that." —Michael Dearing
+
+"If the vision/objective is not big enough, you won't get through the bad times"
+—(?)
