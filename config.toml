@@ -11,13 +11,22 @@ theme = "omartrejo"
 author = "Omar Trejo Navarro"
 phrase = "Data and Software Engineer"
 
-description="""Hello! I'm a Data and Software Engineer who enjoys building
-complex and valuable data platforms for organizations all over the world. My
-background is in Machine Learning, Mathematics, and Economics. I was National
-Data Science Champion for a contest organized by Mexico's Presidential Office
+description="""Hello! I build data platforms and modern web applications with
+Machine Learning components and open-source technologies around the Python,
+JavaScript, and R ecosystems, and I help data-centric organizations, from all
+over the world, get from idea to high-quality product very fast.
+
+I've worked in a wide variety of projects, such as Machine Learning systems,
+voice-enabled web applications, and blockchain products, among others, with
+startups as well as Fortune 500 companies, and in in industries such as retail,
+health, e-commerce, finance, security, and others.
+
+My background is in Machine Learning, Mathematics, and Economics. I was National
+Data Science Co-Champion for a contest organized by Mexico's Presidential Office
 (2014), and I wrote [R Programming by
-Example](http://links.omartrejo.com/r-programming-by-example) (2017). Let’s
-talk!
+Example](http://links.omartrejo.com/r-programming-by-example) (2017).
+
+Do you have an idea you want to bring to reality? Let’s talk!
 
 <i>"There's nothing more powerful than an idea whose time has come."
 <br>
@@ -48,9 +57,10 @@ customCSS = ["css/contact-form.css"]
 twitter = "http://links.omartrejo.com/twitter/"
 gitlab = "http://links.omartrejo.com/gitlab/"
 linkedin = "http://links.omartrejo.com/linkedin/"
-youtube = "http://links.omartrejo.com/youtube/"
+# youtube = "http://links.omartrejo.com/youtube/"
 
 [socialpng]
+
 keybase = "http://links.omartrejo.com/keybase/"
 
 [taxonomies]

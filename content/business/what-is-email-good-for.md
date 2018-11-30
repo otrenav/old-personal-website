@@ -1,0 +1,18 @@
++++
+draft = true
++++
+
+https://www.alanweiss.com/hot-tips/what-is-e-mail-good-for-anyway/
+
+What is e-mail good for, anyway?
+There are technical consultants who will tell you that the future of all service transactions will be over the Internet—which is ludicrous—and those Luddites who will tell you that the Internet is just a passing fad—equally ludicrous. For consultants, electronic communication and commerce provide another tool, an augmentation, not a replacement, of interpersonal, on-site help.
+
+I’ve found that e-mail, despite some of its deserved reputation for multiplying like the Blob, can be a very effective tool under the right circumstances. So, based on exhaustive research (my biases) I am presenting herein the top uses for e-mail by consultants.
+
+Respond to inquiries. Some inquiries are best served by speed, even if the source is telephone message, fax or regular mail. Even if you are responding with hard copy or a phone call later, send an e-mail to let the other party know that their inquiry has been received and a response is on the way. It gives you another reason to make contact. (By the way, if you send documents via FedEx from that company’s Internet site, you can stipulate that an e-mail confirmation be sent as well.)
+Stay in touch with past clients. If you keep the communication very brief, you can send personal notes to past clients to keep your name in front of them. This can range from projects you’ve done elsewhere which are relevant for them, to information about vacation spots you recall they liked.
+Get to people who are “out of town.” There’s always the key person you need, even in the midst of a project, who’s “not expected back for two weeks.” That may be the case, but I can guarantee they’re not going for two weeks without access to their e-mail. Use this sparingly but effectively when you need a vital piece of information or decision only that person can make.
+Send some value. A lot of people are sending electronic newsletters, which are often blatant pieces of promotion or, even more laughable, purported “trends” that are as obvious as a ham sandwich. Instead of following the pack, send a very brief e-mail with a single tip or technique (e.g., there’s a new tax advantage for small businesses, or Singapore has waived its non-resident business requirements). If it’s brief and pithy, people will look forward to it and will always take the 30 seconds required to read it. (I delete immediately anything more than a page or obviously self-promotional.) One caveat: Do not send humor. Most of the e-mail humor is lame and much of it comes around a dozen times from different sources. It’s as bad as junk mail.
+Network. One of the greatest drawbacks of being a “lone wolf” is solved admirably by e-mail. I talk to 20 or 30 people electronically on a weekly basis, from other consultants to authors, from agents to speakers. We compare notes, make recommendations, and provide a sounding board for each other. There is no need to formalize this network. Some of us talk every other day, some of us twice a month. But it’s an excellent way to remain in contact with peers despite travel, time zone differences, and other impediments.
+Review your address book for potential. Once every quarter I go through my electronic address book and send something—an inquiry, some value, a “How are you?”—to as many people as is appropriate. A third of those result in useful information, feedback, new ideas, and renewed relationships. It’s a wonderful, built-in follow-up device.
+There’s a good chance that you’re a “reactive e-mailer,” simply responding to what appears on your screen. Take the offensive. The tool is available, inexpensive, and highly flexible.

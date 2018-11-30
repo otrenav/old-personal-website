@@ -400,3 +400,7 @@ Embrace your gift." —Anonymous
 
 "If the vision/objective is not big enough, you won't get through the bad times"
 —(?)
+
+"First they ignore you, then they laugh at you, then they fight you and then you
+win."
+—Mahatma Gandhi
