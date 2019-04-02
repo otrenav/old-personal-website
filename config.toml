@@ -9,24 +9,21 @@ theme = "omartrejo"
 [params]
 
 author = "Omar Trejo Navarro"
-phrase = "Data and Software Engineer"
+phrase = "Machine Learning Engineer"
 
-description="""Hello! I build data platforms and modern web applications with
-Machine Learning components and open-source technologies around the Python,
-JavaScript, and R ecosystems, and I help data-centric organizations, from all
-over the world, get from idea to high-quality product very fast.
-
-I've worked in a wide variety of projects, such as Machine Learning systems,
-voice-enabled web applications, and blockchain products, among others, with
-startups as well as Fortune 500 companies, and in in industries such as retail,
-health, e-commerce, finance, security, and others.
+description="""Hello! I build intelligent platforms for data-driven
+organizations all over the world, from large enterprises to small startups, and
+in areas as varied as retail, finance, real estate, entertainment,
+telecommunications, and academia. I use cloud and open-source technologies to do
+so, and I'm comfortable interfacing with executive, technical, and non-technical
+teams.
 
 My background is in Machine Learning, Mathematics, and Economics. I was National
 Data Science Co-Champion for a contest organized by Mexico's Presidential Office
 (2014), and I wrote [R Programming by
 Example](http://links.omartrejo.com/r-programming-by-example) (2017).
 
-Do you have an idea you want to bring to reality? Let’s talk!
+Let’s talk! You can reach me at <b>contact@omartrejo.com</b>
 
 <i>"There's nothing more powerful than an idea whose time has come."
 <br>
