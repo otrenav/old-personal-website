@@ -872,7 +872,20 @@ p.emphasis {
 
 .block-image > img {
   max-width: 100%;
-  max-height: 200px;
+  max-height: 180px;
+}
+
+.profile-image {
+  width: 100%;
+  max-width: 300px;
+}
+
+.subtle-links > * > a {
+  text-decoration: underline !important;
+  color: #304a7c;
+}
+.subtle-links > * > a:hover {
+  color: #2eca8b;
 }
 
 .section {
