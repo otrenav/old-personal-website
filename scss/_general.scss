@@ -1,0 +1,44 @@
+body {
+  font-family: $font-family-base;
+  overflow-x: hidden !important;
+  font-size: $font-size-base;
+  color: $body-color;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: $font-family-base;
+  line-height: 1.5;
+  font-weight: 600;
+}
+::selection {
+  background: lighten($primary, 5%);
+  color: $white;
+}
+a {
+  text-decoration: none !important;
+  color: $primary;
+}
+a:hover {
+  color: $success;
+}
+p {
+  line-height: 1.6;
+}
+p.emphasis {
+  font-size: 1.25em !important;
+}
+
+// Added by Omar
+.email {
+  font-size: 1em;
+}
+
+.block-border {
+  border-color: $gray-500;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.block-image > img {
+  max-width: 100%;
+  max-height: 200px;
+}

@@ -1,9 +1,9 @@
-
-image: registry.gitlab.com/pages/hugo:latest
-
 pages:
+  stage: deploy
   script:
-  - hugo
+  - mkdir .public
+  - cp -r * .public
+  - mv .public public
   artifacts:
     paths:
     - public

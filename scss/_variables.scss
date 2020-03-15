@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono&display=swap');
+
+$white:                     #ffffff;
+$primary:                   #0033ff;
+$secondary:                 #304a7c;
+$success:                   #2eca8b;
+$warning:                   #f17425;
+$info:                      #17a2b8;
+$danger:                    #e43f52;
+$dark:                      #3c4858;
+$black:                     #161c2d;
+$muted:                     #8492a6;
+$light:                     #f8f9fc;
+
+$gray-100:                  #f8f9fa;
+$gray-200:                  #e9ecef;
+$gray-300:                  #dee2e6;
+$gray-400:                  #ced4da;
+$gray-500:                  #adb5bd;
+$gray-600:                  #6c757d;
+$gray-700:                  #495057;
+
+$overlay:                   rgba(35, 37, 47, 0.7);
+$gradident-overlay:         rgba(0, 51, 255, 0.75);
+
+$body-color:                #161c2d;
+$deep-shadow:               0 .5rem 1rem rgba(0,0,0,.15);
+$shadow:                    0 0 3px rgba(0,0,0,.15);
+
+$font-size-base:            16px;
+$font-family-base:          'Roboto', sans-serif;
+$font-family-secondary:     'Roboto', sans-serif;
+
+$colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "success": $success,
+  "warning": $warning,
+  "danger": $danger,
+  "muted": $muted,
+  "light": $light,
+  "dark": $dark,
+  "info": $info,
+)
