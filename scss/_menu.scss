@@ -9,9 +9,8 @@
   border: 0;
   transition: all .5s ease;
   .logo {
-    float: left;
-    max-width: 30%;
-    color: $dark !important;
+    width: 100%;
+    max-width: 300px;
     img, object {
       width: 100%;
     }
@@ -74,12 +73,6 @@
         margin-bottom: 0;
       }
     }
-  }
-
-  .buy-button {
-    float: right;
-    line-height: 68px;
-    padding: 3px 0;
   }
   .navbar-toggle {
     &.open {
@@ -184,43 +177,8 @@
       }
     }
   }
-
-  &.defaultscroll{
-    &.dark-menubar {
-      .logo {
-        line-height: 70px;
-      }
-    }
-    &.scroll {
-      .logo{
-        line-height: 62px;
-      }
-      &.dark-menubar {
-        .logo{
-          line-height: 62px;
-        }
-      }
-    }
-  }
-
   &.nav-sticky{
     background: $white;
     box-shadow: $shadow;
-  }
-}
-
-.logo {
-  font-weight: 700;
-  font-size: 24px;
-  padding: 3px 0;
-  letter-spacing: 1px;
-  line-height: 68px;
-}
-
-@media(max-width: 800px) {
-  #topnav {
-    .logo {
-      max-width: 60%;
-    }
   }
 }

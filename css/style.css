@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 .bg-primary {
   background-color: #0033ff !important;
 }
@@ -1209,9 +1209,8 @@ p.emphasis {
   transition: all 0.5s ease;
 }
 #topnav .logo {
-  float: left;
-  max-width: 30%;
-  color: #3c4858 !important;
+  width: 100%;
+  max-width: 300px;
 }
 #topnav .logo img, #topnav .logo object {
   width: 100%;
@@ -1264,11 +1263,6 @@ p.emphasis {
 }
 #topnav .navbar-toggle span:last-child {
   margin-bottom: 0;
-}
-#topnav .buy-button {
-  float: right;
-  line-height: 68px;
-  padding: 3px 0;
 }
 #topnav .navbar-toggle.open span {
   position: absolute;
@@ -1352,33 +1346,11 @@ p.emphasis {
 #topnav.scroll .navigation-menu > li:hover > .menu-arrow, #topnav.scroll .navigation-menu > li.active > .menu-arrow {
   border-color: #0033ff;
 }
-#topnav.defaultscroll.dark-menubar .logo {
-  line-height: 70px;
-}
-#topnav.defaultscroll.scroll .logo {
-  line-height: 62px;
-}
-#topnav.defaultscroll.scroll.dark-menubar .logo {
-  line-height: 62px;
-}
 #topnav.nav-sticky {
   background: #ffffff;
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
 }
 
-.logo {
-  font-weight: 700;
-  font-size: 24px;
-  padding: 3px 0;
-  letter-spacing: 1px;
-  line-height: 68px;
-}
-
-@media (max-width: 800px) {
-  #topnav .logo {
-    max-width: 60%;
-  }
-}
 .home-center {
   display: table;
   width: 100%;
