@@ -35,3 +35,21 @@ for (const q in questions) {
     }
   });
 }
+
+let contacts = {
+  "contact-top": "top",
+  "contact-intro": "intro",
+  "contact-what": "what",
+  "contact-why": "why",
+  "contact-how": "how"
+};
+
+for (const c in contacts) {
+  $(`#${c}`).click(function() {
+    if (location.hostname == "localhost") {
+      console.log(`Would send "contact/${contacts[c]}" to GA`);
+    } else {
+      ga("send", "event", "contact", contacts[c]);
+    }
+  });
+}
