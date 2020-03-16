@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap");
 .bg-primary {
   background-color: #0033ff !important;
 }
@@ -1209,7 +1209,6 @@ p.emphasis {
   transition: all 0.5s ease;
 }
 #topnav .logo {
-  width: 100%;
   max-width: 300px;
 }
 #topnav .logo img, #topnav .logo object {
