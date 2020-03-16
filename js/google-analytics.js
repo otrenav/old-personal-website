@@ -10,16 +10,16 @@ if (location.hostname == "localhost") {
 }
 
 let questions = {
-  headingOne: "call",
-  headingTwo: "process",
-  headingThree: "price",
-  headingFour: "retainers",
-  headingFive: "on-site",
-  headingSix: "expertise",
-  headingSeven: "training",
-  headingEight: "send-me-work",
-  headingNine: "work-for-you",
-  headingTen: "current-work"
+  headingOne: "Call",
+  headingTwo: "Process",
+  headingThree: "Price",
+  headingFour: "Retainers",
+  headingFive: "Offices",
+  headingSix: "Expertise",
+  headingSeven: "Training",
+  headingEight: "Send me work",
+  headingNine: "Work for you",
+  headingTen: "Current work"
 };
 
 for (const q in questions) {
@@ -34,18 +34,18 @@ for (const q in questions) {
       if (location.hostname == "localhost") {
         console.log(`Would send "questions/${questions[q]}" to GA`);
       } else {
-        ga("send", "event", "questions", questions[q]);
+        ga("send", "event", "Questions", questions[q]);
       }
     }
   });
 }
 
 let contacts = {
-  "contact-top": "top",
-  "contact-intro": "intro",
-  "contact-what": "what",
-  "contact-why": "why",
-  "contact-how": "how"
+  "contact-top": "Top",
+  "contact-intro": "Intro",
+  "contact-what": "What",
+  "contact-why": "Why",
+  "contact-how": "How"
 };
 
 for (const c in contacts) {
@@ -53,7 +53,7 @@ for (const c in contacts) {
     if (location.hostname == "localhost") {
       console.log(`Would send "contact/${contacts[c]}" to GA`);
     } else {
-      ga("send", "event", "contact", contacts[c]);
+      ga("send", "event", "Contact", contacts[c]);
     }
   });
 }
