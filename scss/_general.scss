@@ -61,3 +61,16 @@ p.emphasis {
     color: $success;
   }
 }
+
+.spn-logo {
+  max-width: 65%;
+  object {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .spn-logo {
+    max-width: 90%;
+  }
+}

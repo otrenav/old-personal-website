@@ -52,10 +52,6 @@
   border-radius: 30px;
 }
 
-.spn-logo {
-  max-width: 70%;
-}
-
 .agency-wrapper {
   &:before {
     content: "";
@@ -133,11 +129,6 @@
     clip-path: polygon(0 0, 90% 0, 70% 100%, 0% 100%);
   }
 }
-@media(max-width: 1090px) {
-  .spn-logo {
-    max-width: 80%;
-  }
-}
 @media (min-width: 769px){
   .bg-studio:after{
     position: absolute;
@@ -151,9 +142,6 @@
   }
 }
 @media (max-width: 768px) {
-  .spn-logo {
-    max-width: 100%;
-  }
   .agency-wrapper {
     &:before {
       right: 12rem;

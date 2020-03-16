@@ -888,6 +888,18 @@ p.emphasis {
   color: #2eca8b;
 }
 
+.spn-logo {
+  max-width: 65%;
+}
+.spn-logo object {
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .spn-logo {
+    max-width: 90%;
+  }
+}
 .section {
   padding: 100px 0;
   position: relative;
@@ -1201,7 +1213,7 @@ p.emphasis {
   max-width: 30%;
   color: #3c4858 !important;
 }
-#topnav .logo img {
+#topnav .logo img, #topnav .logo object {
   width: 100%;
 }
 #topnav .has-submenu.active a {
@@ -1427,10 +1439,6 @@ p.emphasis {
   border-radius: 30px;
 }
 
-.spn-logo {
-  max-width: 70%;
-}
-
 .agency-wrapper:before {
   content: "";
   position: absolute;
@@ -1508,11 +1516,6 @@ p.emphasis {
   clip-path: polygon(0 0, 90% 0, 70% 100%, 0% 100%);
 }
 
-@media (max-width: 1090px) {
-  .spn-logo {
-    max-width: 80%;
-  }
-}
 @media (min-width: 769px) {
   .bg-studio:after {
     position: absolute;
@@ -1526,10 +1529,6 @@ p.emphasis {
   }
 }
 @media (max-width: 768px) {
-  .spn-logo {
-    max-width: 100%;
-  }
-
   .agency-wrapper:before {
     right: 12rem;
   }
