@@ -1,5 +1,5 @@
 if (location.hostname == "localhost") {
-  console.log("Avoided contaminating Google Analytics");
+  console.log("Avoided in localhost: Google Analytics");
 } else {
   window.dataLayer = window.dataLayer || [];
   function gtag() {

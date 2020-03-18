@@ -1,5 +1,5 @@
 if (location.hostname == "localhost") {
-  console.log("Avoided contaminating Google Tag Manager");
+  console.log("Avoided in localhost: Google Tag Manager");
 } else {
   (function(w, d, s, l, i) {
     w[l] = w[l] || [];
