@@ -223,9 +223,10 @@ $value in $colors {
       color: $primary;
       transition: all 0.5s;
       &:before {
-        content: '\F143';
+        content: '^';
         display: block;
         font-family: 'Material Design Icons';
+        font-weight: bold;
         font-size: 18px;
         color: $dark;
         position: absolute;

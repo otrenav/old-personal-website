@@ -659,9 +659,10 @@ button:not(:disabled) {
   transition: all 0.5s;
 }
 .faq-content .card a.faq[data-toggle=collapse]:before {
-  content: "";
+  content: "^";
   display: block;
   font-family: "Material Design Icons";
+  font-weight: bold;
   font-size: 18px;
   color: #3c4858;
   position: absolute;
