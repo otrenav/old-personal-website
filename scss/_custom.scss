@@ -1,0 +1,46 @@
+span.no-wrap {
+  display: inline-block;
+}
+.email {
+  font-size: 1em;
+}
+.block-border {
+  border-color: $gray-500;
+  border-style: solid;
+  border-width: 1px;
+}
+.block-image > img {
+  max-width: 100%;
+  max-height: 150px;
+}
+.profile-image {
+  width: 100%;
+  max-width: 300px;
+}
+.subtle-links > * > a {
+  text-decoration: underline !important;
+  color: $secondary;
+  &:hover {
+    color: $success;
+  }
+}
+.spn-logo {
+  max-width: 50%;
+  object {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  .spn-logo {
+    max-width: 90%;
+  }
+}
+hr {
+  border-color: $gray-400;
+  border-width: 1px;
+}
+@media (min-width: 768px) {
+  .no-wrap-lg {
+    display: inline-block;
+  }
+}

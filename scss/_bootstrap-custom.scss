@@ -7,12 +7,10 @@ $value in $colors {
     color: #{$value} !important;
   }
 }
-
 .list-inline-item:not(:last-child) {
   margin-right: 0px;
   margin-bottom: 5px;
 }
-
 .rounded {
   border-radius: 10px !important;
 }
@@ -32,7 +30,6 @@ $value in $colors {
   border-top-right-radius: 10px !important;
   border-bottom-right-radius: 10px !important;
 }
-
 .small, small {
   font-size: 90%;
 }

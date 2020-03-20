@@ -19,12 +19,10 @@
 .bg-overlay-gradient {
   background-color: $gradident-overlay;
 }
-
 .bg-overlay-dark {
   background: darken($primary, 30%);
   opacity: 0.8;
 }
-
 .title-heading {
   line-height: 26px;
   .heading {
@@ -85,7 +83,6 @@
 .mb-50 {
   margin-bottom: 50px;
 }
-
 .home-shape-bottom {
   display: block;
   position: absolute;
@@ -119,7 +116,6 @@
     display: inline-block;
   }
 }
-
 .mover {
   animation: mover 1s infinite alternate;
 }
@@ -132,7 +128,6 @@
     transform: translateY(5px);
   }
 }
-
 #preloader {
   position: fixed;
   top: 0;
@@ -169,7 +164,6 @@
     }
   }
 }
-
 @keyframes sk-bounce {
   0%, 100% {
     transform: scale(0.0);
@@ -177,7 +171,6 @@
     transform: scale(1.0);
   }
 }
-
 .social-icon {
   li {
     a {
@@ -208,7 +201,6 @@
     }
   }
 }
-
 .back-to-top {
   z-index: 99;
   position: fixed;
@@ -235,7 +227,6 @@
     }
   }
 }
-
 .back-to-home {
   position: absolute;
   top: 4%;

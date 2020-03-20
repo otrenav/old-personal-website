@@ -3,7 +3,6 @@
     font-size: 20px;
   }
 }
-
 @each $name,
 $value in $colors {
   .btn-#{$name} {
@@ -17,7 +16,6 @@ $value in $colors {
       color: $white !important;
     }
   }
-
   .btn-outline-#{$name} {
     border: 1px solid #{$value};
     color: #{$value};
@@ -53,7 +51,6 @@ $value in $colors {
   &.searchbtn {
     padding: 6px 20px;
   }
-
   &.btn-light {
     color: $dark !important;
     background: $light;
@@ -72,26 +69,21 @@ $value in $colors {
     }
   }
 }
-
 button:not(:disabled) {
   outline: none;
 }
-
 .shadow {
   box-shadow: $shadow !important;
 }
-
 .deep-shadow {
   box-shadow: $deep-shadow !important;
 }
-
 @each $name,
 $value in $colors {
   .badge-#{$name} {
     background-color: #{$value} !important;
     color: $white !important;
   }
-
   .badge-outline-#{$name} {
     background-color: transparent !important;
     color: #{$value} !important;
@@ -106,7 +98,6 @@ $value in $colors {
     color: $dark !important;
     background-color: $light !important;
   }
-
   &.badge-outline-light {
     color: $dark !important;
     border: 1px solid darken($light, 20%) !important;
@@ -116,7 +107,6 @@ $value in $colors {
     box-shadow: none !important;
   }
 }
-
 @each $name,
 $value in $colors {
   .alert-#{$name} {
@@ -141,7 +131,6 @@ $value in $colors {
     right: -10px;
   }
 }
-
 .page-next-level{
   .title {
     font-size: 28px;
@@ -186,7 +175,6 @@ $value in $colors {
     }
   }
 }
-
 .avatar {
   &.avatar-small{
     height: 80px;
@@ -198,13 +186,11 @@ $value in $colors {
     height: 140px;
   }
 }
-
 .faq-container {
   .question {
     font-size: 20px;
   }
 }
-
 .faq-content {
   .card {
     .faq {
@@ -250,7 +236,6 @@ $value in $colors {
     }
   }
 }
-
 .nav-pills {
   .nav-item {
     margin-bottom: 15px;
@@ -274,7 +259,6 @@ $value in $colors {
     }
   }
 }
-
 .progress-box {
   .title {
     font-size: 15px;
@@ -299,13 +283,11 @@ $value in $colors {
     }
   }
 }
-
 .blockquote {
   border-left: 3px solid $gray-300;
   border-radius: 10px;
   font-size: 16px;
 }
-
 .form-group {
   margin-bottom: 20px;
   label {
@@ -333,7 +315,6 @@ $value in $colors {
   background-color: transparent;
   opacity: 1;
 }
-
 .custom-control-input:checked~.custom-control-label::before {
   color: $white;
   border-color: $primary;
@@ -344,7 +325,6 @@ $value in $colors {
   box-shadow: none;
   border-color: $primary;
 }
-
 .subcribe-form {
   input {
     padding: 14px 20px;
@@ -368,7 +348,6 @@ $value in $colors {
     margin: 0px auto;
   }
 }
-
 .display-1 {
   font-size: 80px !important;
 }
@@ -381,7 +360,6 @@ $value in $colors {
 .display-4 {
   font-size: 56px !important;
 }
-
 @media (max-width: 768px) {
   .display-1 {
     font-size: 56px !important;

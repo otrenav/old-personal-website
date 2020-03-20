@@ -861,46 +861,6 @@ p.emphasis {
   font-size: 1.25em !important;
 }
 
-.email {
-  font-size: 1em;
-}
-
-.block-border {
-  border-color: #adb5bd;
-  border-style: solid;
-  border-width: 1px;
-}
-
-.block-image > img {
-  max-width: 100%;
-  max-height: 150px;
-}
-
-.profile-image {
-  width: 100%;
-  max-width: 300px;
-}
-
-.subtle-links > * > a {
-  text-decoration: underline !important;
-  color: #304a7c;
-}
-.subtle-links > * > a:hover {
-  color: #2eca8b;
-}
-
-.spn-logo {
-  max-width: 50%;
-}
-.spn-logo object {
-  width: 100%;
-}
-
-@media (max-width: 767px) {
-  .spn-logo {
-    max-width: 90%;
-  }
-}
 .section {
   padding: 100px 0;
   position: relative;
@@ -1756,6 +1716,61 @@ hr {
   margin-bottom: 0;
   border: 0;
   border-top: 1px solid #333744;
+}
+
+span.no-wrap {
+  display: inline-block;
+}
+
+.email {
+  font-size: 1em;
+}
+
+.block-border {
+  border-color: #adb5bd;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.block-image > img {
+  max-width: 100%;
+  max-height: 150px;
+}
+
+.profile-image {
+  width: 100%;
+  max-width: 300px;
+}
+
+.subtle-links > * > a {
+  text-decoration: underline !important;
+  color: #304a7c;
+}
+.subtle-links > * > a:hover {
+  color: #2eca8b;
+}
+
+.spn-logo {
+  max-width: 50%;
+}
+.spn-logo object {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .spn-logo {
+    max-width: 90%;
+  }
+}
+hr {
+  border-color: #ced4da;
+  border-width: 1px;
+}
+
+@media (min-width: 768px) {
+  .no-wrap-lg {
+    display: inline-block;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
