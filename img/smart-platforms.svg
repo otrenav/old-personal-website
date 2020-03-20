@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="267.61061"
+     inkscape:cx="106.89632"
      inkscape:cy="-83.677703"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,14 +74,14 @@
          style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#04386a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#24275a;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="28.31773"
        y="-10.362743"
        id="text12"><tspan
          sodipodi:role="line"
          x="28.31773"
          y="-10.362743"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:0px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#04386a;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:0px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#24275a;fill-opacity:1;stroke-width:0.26458332;"
          rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
          id="tspan822">Smart Platforms</tspan></text>
   </g>
@@ -115,48 +115,44 @@
      inkscape:label="Reflection"
      style="display:inline"
      transform="translate(-5.8333811,-3.4346237)">
-    <g
-       id="g850"
-       transform="translate(-2.3618604)">
-      <ellipse
-         ry="6.1742668"
-         rx="6.1915679"
-         cy="9.6088905"
-         cx="14.386809"
-         id="path871"
-         style="display:inline;opacity:1;fill:#04386a;fill-opacity:1;stroke-width:0.11247573" />
-      <ellipse
-         transform="rotate(-18.294682)"
-         ry="5.3249831"
-         rx="5.3399043"
-         cy="13.639287"
-         cx="10.64335"
-         id="path871-9"
-         style="display:inline;opacity:1;fill:#5bd993;fill-opacity:1;stroke-width:0.09700446" />
-      <ellipse
-         transform="rotate(-18.294682)"
-         ry="3.3363085"
-         rx="3.3456576"
-         cy="13.639287"
-         cx="10.64335"
-         id="path871-9-8"
-         style="display:inline;opacity:1;fill:#379482;fill-opacity:1;stroke-width:0.06077706" />
-      <ellipse
-         transform="rotate(-18.294682)"
-         ry="1.9207107"
-         rx="1.926093"
-         cy="13.639287"
-         cx="10.64335"
-         id="path871-9-8-4"
-         style="display:inline;opacity:1;fill:#04386a;fill-opacity:1;stroke-width:0.03498932" />
-      <ellipse
-         transform="rotate(-18.294682)"
-         ry="0.81359524"
-         rx="0.81587511"
-         cy="12.808664"
-         cx="12.24978"
-         id="path871-9-8-4-8"
-         style="opacity:1;fill:#a6d7b6;fill-opacity:0.74509804;stroke-width:0.01482115" />
-    </g>
+    <ellipse
+       style="display:inline;opacity:1;fill:#24275a;fill-opacity:1;stroke-width:0.11247573"
+       id="path871"
+       cx="12.024949"
+       cy="9.6088905"
+       rx="6.1915679"
+       ry="6.1742668" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#5bd993;fill-opacity:1;stroke-width:0.09700446"
+       id="path871-9"
+       cx="8.4008703"
+       cy="12.897889"
+       rx="5.3399043"
+       ry="5.3249831"
+       transform="rotate(-18.294682)" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#379482;fill-opacity:1;stroke-width:0.06077706"
+       id="path871-9-8"
+       cx="8.4008703"
+       cy="12.897889"
+       rx="3.3456576"
+       ry="3.3363085"
+       transform="rotate(-18.294682)" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#24275a;fill-opacity:1;stroke-width:0.03498932"
+       id="path871-9-8-4"
+       cx="8.4008703"
+       cy="12.897889"
+       rx="1.926093"
+       ry="1.9207107"
+       transform="rotate(-18.294682)" />
+    <ellipse
+       style="opacity:1;fill:#a6d7b6;fill-opacity:0.74509804;stroke-width:0.01482115"
+       id="path871-9-8-4-8"
+       cx="10.0073"
+       cy="12.067266"
+       rx="0.81587511"
+       ry="0.81359524"
+       transform="rotate(-18.294682)" />
   </g>
 </svg>
